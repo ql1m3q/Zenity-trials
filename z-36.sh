@@ -1,3 +1,4 @@
+zenity --warning; 
 n=1; 
 while [ $n -le 36 ]; 
     do echo $n; 
